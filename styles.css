@@ -1,1 +1,60 @@
 /* your code here */
+footer {
+	background-color: black;
+}
+.logo_name {
+	color: white; 
+	font-size: 25px;
+}
+.top {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+}
+.icon {
+	height: 50px;
+	width: 50px;
+	color: white;
+	
+}
+.bottom-details {
+		display: flex;
+		justify-content: space-between;
+	padding: 10px 20px 0 20px;
+	background-color: #3d3b3d;
+		
+	}
+.link1 {
+		font-size: 20px;
+	text-decoration: underline;
+	}
+
+.copy p{
+		color: white;
+	}
+	.privacy {
+		color: white;
+	}
+.link-boxes {
+    display: flex;
+	justify-content: space-between;
+  
+}
+	 li {
+		color: white ;
+		 list-style: none;
+		 line-height: 1.5;
+	}
+.media-icons {
+	display: flex;
+
+.icon svg {
+	fill:white;
+}
+.logo_name {
+	font-size: 35px;
+}
+	
+	
+	
+
